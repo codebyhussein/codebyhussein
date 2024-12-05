@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codebyhussein](https://github.com/codebyhussein)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/codebyhussein)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/hussein-salah-065662226](https://www.linkedin.com/in/hussein-salah-065662226)
+- 📝 I regularly write articles on [Linkedln](https://www.linkedin.com/in/hussein-salah-065662226)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **husseinsalah2528@gmail.com**
 
-- 📄 Know about my experiences [[CV](https://drive.google.com/drive/folders/1zYDEdrFXW5D3v9CRSlalTEM_fH1w--4f?usp=drive_link)] 
+- 📄 Know about my experiences [[check my cv](https://drive.google.com/drive/folders/1zYDEdrFXW5D3v9CRSlalTEM_fH1w--4f?usp=drive_link)] 
 
 - ⚡ Fun fact **I think I am funny**
 
