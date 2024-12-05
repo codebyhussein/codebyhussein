@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **husseinsalah2528@gmail.com**
 
-- 📄 Know about my experiences [[check my cv](https://drive.google.com/drive/folders/1zYDEdrFXW5D3v9CRSlalTEM_fH1w--4f?usp=drive_link)] 
+- 📄 Know about my experiences [check my cv](https://drive.google.com/drive/folders/1zYDEdrFXW5D3v9CRSlalTEM_fH1w--4f?usp=drive_link) 
 
 - ⚡ Fun fact **I think I am funny**
 
