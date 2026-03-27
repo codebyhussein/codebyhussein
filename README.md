@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein</h1>
-<h3 align="center">"Passionate about building visually striking, highly responsive, and performance-driven apps with Flutter. 🚀 Expert in state management, smooth API integration, and leveraging Firebase for robust backend solutions."</h3>
+<h3 align="center">Passionate about building visually striking, highly responsive, and performance-driven apps with Flutter. 🚀 Expert in state management, smooth API integration, and leveraging Firebase for robust backend solutions.</h3>
 
 - 🌱 I’m currently learning **Flutter Development**
 
